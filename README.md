@@ -86,9 +86,9 @@ Inspired by models like **Zepto** and **Blinkit**, Ziply integrates geolocation 
 
 ## 🖌 UI Highlights  
 
-### 🏠 Home Page  
+### 🛒 User Page  
 <p align="center">
-  <img src="./home.png" alt="Home Page" width="700"/>
+  <img src="./user.png" alt="User Page" width="700"/>
 </p>
 
 ### 🛒 Cart Page  
@@ -96,9 +96,20 @@ Inspired by models like **Zepto** and **Blinkit**, Ziply integrates geolocation 
   <img src="./cart.png" alt="Cart Page" width="700"/>
 </p>
 
-### 📦 Store Operator Dashboard  
+### Store Operator Dashboard  
 <p align="center">
-  <img src="./operator.png" alt="Operator Dashboard" width="700"/>
+  <img src="./StoreOperator.png" alt="Operator Dashboard" width="700"/>
+</p>
+</br>
+### Add Products
+<p align="center">
+  <img src="./AddProducts.png" alt="Add Product by Store Operator" width="700"/>
+</p>
+</br>
+
+### Add Store 
+<p align="center">
+  <img src="./AddStore.png" alt="Add Store by Store Operator" width="700"/>
 </p>
 
 ---
